@@ -1,0 +1,14 @@
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\bin\Debug\net8.0\Aula01-Ex05.exe
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\bin\Debug\net8.0\Aula01-Ex05.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\bin\Debug\net8.0\Aula01-Ex05.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\bin\Debug\net8.0\Aula01-Ex05.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\bin\Debug\net8.0\Aula01-Ex05.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\refint\Aula01-Ex05.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\Aula01-Ex05.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex05\Aula01-Ex05\obj\Debug\net8.0\ref\Aula01-Ex05.dll

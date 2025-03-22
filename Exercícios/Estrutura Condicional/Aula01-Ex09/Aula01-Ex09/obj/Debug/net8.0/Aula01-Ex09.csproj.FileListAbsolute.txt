@@ -1,0 +1,14 @@
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\bin\Debug\net8.0\Aula01-Ex09.exe
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\bin\Debug\net8.0\Aula01-Ex09.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\bin\Debug\net8.0\Aula01-Ex09.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\bin\Debug\net8.0\Aula01-Ex09.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\bin\Debug\net8.0\Aula01-Ex09.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\refint\Aula01-Ex09.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\Aula01-Ex09.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Estrutura Condicional\Aula01-Ex09\Aula01-Ex09\obj\Debug\net8.0\ref\Aula01-Ex09.dll

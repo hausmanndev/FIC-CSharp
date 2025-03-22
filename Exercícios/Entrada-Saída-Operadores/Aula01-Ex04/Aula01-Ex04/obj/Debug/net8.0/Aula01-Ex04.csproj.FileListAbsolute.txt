@@ -1,0 +1,14 @@
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\bin\Debug\net8.0\Aula01-Ex04.exe
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\bin\Debug\net8.0\Aula01-Ex04.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\bin\Debug\net8.0\Aula01-Ex04.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\bin\Debug\net8.0\Aula01-Ex04.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\bin\Debug\net8.0\Aula01-Ex04.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\refint\Aula01-Ex04.dll
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.pdb
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\Aula01-Ex04.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aula01\Exercícios\Aula01-Ex04\Aula01-Ex04\obj\Debug\net8.0\ref\Aula01-Ex04.dll
