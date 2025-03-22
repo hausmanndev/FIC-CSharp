@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\bin\Debug\net8.0\Exercício03.exe
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\bin\Debug\net8.0\Exercício03.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\bin\Debug\net8.0\Exercício03.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\bin\Debug\net8.0\Exercício03.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\bin\Debug\net8.0\Exercício03.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.sourcelink.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\refint\Exercício03.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\Exercício03.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Arrays\Exercício03\obj\Debug\net8.0\ref\Exercício03.dll
