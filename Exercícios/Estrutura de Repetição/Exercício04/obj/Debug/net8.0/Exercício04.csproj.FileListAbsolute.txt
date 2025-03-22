@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\bin\Debug\net8.0\Exercício04.exe
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\bin\Debug\net8.0\Exercício04.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\bin\Debug\net8.0\Exercício04.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\bin\Debug\net8.0\Exercício04.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\bin\Debug\net8.0\Exercício04.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.sourcelink.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\refint\Exercício04.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\Exercício04.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício04\obj\Debug\net8.0\ref\Exercício04.dll

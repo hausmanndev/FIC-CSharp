@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\bin\Debug\net8.0\Exercício09.exe
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\bin\Debug\net8.0\Exercício09.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\bin\Debug\net8.0\Exercício09.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\bin\Debug\net8.0\Exercício09.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\bin\Debug\net8.0\Exercício09.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.sourcelink.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\refint\Exercício09.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\Exercício09.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Estrutura de Repetição\Exercício09\obj\Debug\net8.0\ref\Exercício09.dll
