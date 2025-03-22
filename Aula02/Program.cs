@@ -56,7 +56,7 @@ for(int cont = 0; cont <= 10; cont++)
 */
 
 
-//Lista
+//Array
 /*int[] numeros = new int[5];
 int[] valores = { 10, 20, 30, 40, 50 };
 
@@ -73,7 +73,7 @@ for(int i = 0; i < 5; i++)
     Console.WriteLine($"Número {i+1}: {numeros[i]}");
 }*/
 
-string[] textos = new string[5];
+/*string[] textos = new string[5];
 
 for (int i = 0; i < textos.Length; i++)
 {
@@ -84,5 +84,11 @@ Console.WriteLine(" ");
 for (int i = 0; i < 5; i++)
 {
     Console.WriteLine($"String {i + 1}: {textos[i]}");
-}
+}*/
+
+//Lista
+List<string> nomes = new List<string>();
+List<int> idades = new();
+List<float> pesos = new();
+
 
