@@ -18,3 +18,17 @@ static void MostrarSoma()
 }
 
 MostrarSoma();
+
+// FOREACH
+Console.Write("Qual o seu nome? ");
+string nome = Console.ReadLine();
+
+// nomeChar = {'g', 'a', 'b', 'r', 'i', 'e', 'l'}
+var nomeChar = nome.ToCharArray();
+
+//foreach(Para cada) 
+foreach(char letra in nomeChar)
+{
+    Console.WriteLine(letra);
+}
+
