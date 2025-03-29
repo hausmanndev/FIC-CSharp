@@ -7,8 +7,15 @@ string s = Console.ReadLine();
 
 static string InverterString(string s)
 {
-    int cont = 0;
-    string sInvertido = new string(s.Reverse().ToArray());
+
+    //string sInvertido = new string(s.Reverse().ToArray());
+    var sChar = s.ToCharArray();
+    string sInvertido = "";
+    for (int i = sChar.Length; i > 0; i--)
+    {
+        sInvertido += sChar[i-1];
+        //Console.WriteLine(sInvertido);
+    }
 
     return sInvertido;
 
