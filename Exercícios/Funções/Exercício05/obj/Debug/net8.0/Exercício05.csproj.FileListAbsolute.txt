@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\bin\Debug\net8.0\Exercício05.exe
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\bin\Debug\net8.0\Exercício05.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\bin\Debug\net8.0\Exercício05.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\bin\Debug\net8.0\Exercício05.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\bin\Debug\net8.0\Exercício05.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.sourcelink.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\refint\Exercício05.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\Exercício05.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\Funções\Exercício05\obj\Debug\net8.0\ref\Exercício05.dll
