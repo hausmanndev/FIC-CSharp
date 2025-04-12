@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.AssemblyInfo.cs
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.sourcelink.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\bin\Debug\net8.0\Exercício01.exe
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\bin\Debug\net8.0\Exercício01.deps.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\bin\Debug\net8.0\Exercício01.runtimeconfig.json
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\bin\Debug\net8.0\Exercício01.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\bin\Debug\net8.0\Exercício01.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\refint\Exercício01.dll
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.pdb
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\Exercício01.genruntimeconfig.cache
+C:\Users\FIC\Documents\Fic-C#\Aulas\Exercícios\POO\Exercício01\obj\Debug\net8.0\ref\Exercício01.dll
