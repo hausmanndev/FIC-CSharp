@@ -3,20 +3,8 @@
 
 class Pessoa
 {
-    private string nome;
-    private int idade;
-
-    public void CriarPessoa()
-    {
-        Console.WriteLine("Digite seu nome: ");
-        nome = Console.ReadLine();
-        Console.WriteLine("Digite sua idade: ");
-        idade = int.Parse(Console.ReadLine());
-    }
-    public void MostrarPessoa()
-    {
-        Console.WriteLine($"O nome da pessoa é {nome} e sua idade é {idade}.");
-    }
+    public string nome;
+    public int idade;
 
 }
 
@@ -25,7 +13,9 @@ class Program
     public static void Main()
     {
         Pessoa p1 = new Pessoa();
-        p1.CriarPessoa();
-        p1.MostrarPessoa();
+        p1.nome = "Gabriel";
+        p1.idade = 22;
+
+        Console.WriteLine($"Nome: {p1.nome} | Idade: {p1.idade}");
     }
 }
